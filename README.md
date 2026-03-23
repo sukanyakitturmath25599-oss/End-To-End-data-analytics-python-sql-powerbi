@@ -60,6 +60,7 @@ Middle-aged customers generate the highest revenue
 Accessories category dominates sales
 High revenue concentration in select locations
 Subscription users show stable purchase patterns
+
 💼 Business Insights
 High-Value Customer Segment:
 Middle-aged customers contribute the highest share of revenue, making them the most valuable segment.
@@ -71,6 +72,7 @@ Customer Engagement:
 Subscription-based customers show consistent purchasing behavior and better engagement.
 Low Performing Segment:
 Senior customers contribute the least revenue, indicating lower engagement or unmet needs.
+
 📌 Recommendations
 Target High-Value Segments:
 Focus marketing campaigns and personalized offers on middle-aged customers to maximize revenue.
@@ -84,17 +86,36 @@ Enhance Subscription Strategy:
 Promote subscription plans with exclusive benefits to improve customer retention and repeat purchases.
 Optimize Product Mix:
 Analyze underperforming categories and adjust pricing, promotions, or product offerings.
+
+📁 Project Structure
+📁 Data-Analytics-Project
+ ┣ 📄 README.md
+ ┣ 📄 dataset.csv
+ ┣ 📄 analysis.ipynb
+ ┣ 📄 sql_queries.sql
+ ┣ 📄 dashboard.pbix
+ ┗ 📄 presentation.pptx
+ 
+
 ▶️ How to Run the Project
 Clone Repository
-git clone https://github.com/your-username/customer-behavior-analysis.git
+git clone [https://github.com/your-username/customer-behavior-analysis.git]
 cd customer-behavior-analysis
+
 Install Dependencies
-pip install pandas numpy matplotlib seaborn psycopg2
+pip install pandas numpy matplotlib seaborn 
+
 Run Python Analysis
 python eda_analysis.py
+
 Open Dashboard
 Open .pbix file in Power BI Desktop
+
 🚀 Conclusion
 
 This project demonstrates an end-to-end data analytics workflow using Python, SQL, and Power BI, showcasing strong analytical and visualization skills for real-world business problems.
+
+📬 Contact
+
+Feel free to connect for feedback or collaboration opportunities.
 
